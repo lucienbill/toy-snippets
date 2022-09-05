@@ -37,4 +37,4 @@ if (isFail){
 } else {
     console.info("\n✅ UNIT TESTS : pass")
 }
-console.info("--- Unit Test : START end---")
+console.info("--- Unit Test : end---")
