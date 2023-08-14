@@ -1,5 +1,5 @@
 function faultyKeeb(inputStr) {
-    /* Imagine ou have a faulty keyboard. Whenever you type a vowel on it 
+    /* Imagine you have a faulty keyboard. Whenever you type a vowel on it 
     (a,e,i,o,u,y), it reverses the string that you have written, instead of
     typing the character. Typing other characters works as expected.
     This function returns what whould be typed on such a keyboard.
